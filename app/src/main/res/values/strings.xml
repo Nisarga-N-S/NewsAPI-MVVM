@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="published_by">Published By : </string>
+    <string name="choose_category">Choose Category</string>
+    <string-array name="category_names">
+        <item>General</item>
+        <item>Sports</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Entertainment</item>
+        <item>Science</item>
+        <item>Health</item>
+    </string-array>
+
+</resources>
